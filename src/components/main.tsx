@@ -18,9 +18,6 @@ export const Main = () => {
                             Sua contribuição gera impacto real e leva esperança a quem mais precisa.
 
                         </p>
-                        <p>
-                            Junte-se a nós nessa causa. Sua ajuda transforma lágrimas em sorrisos e dá esperança para quem mais precisa.
-                        </p>
                     </div>
                     <div className="pt-8">
                         <div className="w-24 h-1 bg-[#F2C94C] mx-auto rounded-full"></div>
