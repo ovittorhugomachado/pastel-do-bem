@@ -88,7 +88,7 @@ export const Main = () => {
                             </div>
 
                             {/* CARD 2 — CAIXA COM 6 PASTÉIS */}
-                            <div className="p-0">
+                            <div className="p-0 mt-12">
                                 {/* ★ Agora a segunda caixa TAMBÉM tem sua própria barra */}
                                 <div className="w-full h-2 rounded-t-2xl bg-linear-to-r from-[#D92525] via-[#F2C94C] to-[#27AE60]"></div>
 
