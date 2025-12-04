@@ -52,7 +52,7 @@ export const Main = () => {
                                                 href="https://pagamento.pagbank.com.br/pagamento?code=92bdfef2-4995-4a77-b505-d99d054b3ff7&t=09f9e546-8d89-4784-a75e-fd3f89574dc8"
                                                 className="flex max-w-120 items-center justify-center w-full bg-[#27AE60] hover:bg-[#219150] text-white font-hand text-xl md:text-2xl py-2 rounded-2xl shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1"
                                             >
-                                                <IoBagHandle className="mr-2 h-6 w-6" />1 unidade R$ 12,00
+                                                <IoBagHandle className="mr-2 h-6 w-6" />1 unidade R$ 10,00
                                             </a>
                                             <a
                                                 target="_blank"
